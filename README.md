@@ -1,7 +1,14 @@
 Practica01-Mi-Blog
-Creation of a website for the movement of Marian love ties Contact me at: Franklin Gustavo Guallpa Giñin gguallpa97@outlook.es (sales, distribution requests, administration) gguallpa97@outlook.es (bugs, problems, questions)
+Creación de un sitio web para el movimiento de Lazos de Amor marianos. 
+Comuníquese conmigo: Franklin Gustavo Guallpa Giñin 
+gguallpa97@outlook.es (ventas, solicitudes de distribución, administración) 
+gguallpa97@outlook.es (errores, problemas, preguntas)
 
-Objective
-Create the structure of an HTML document
-Insert HTML elements and attributes
-Mark content using lists create a navigation list
+Objetivos: 
+Crear un sitio web
+Crear la estructura de un documento HTML.
+Insertar elementos y atributos HTML
+Marcar contenido usando listas crea una lista de navegación
+
+Resultados:
+La realización de la practica se realizo con toda la normalidad aplicando conocimiento obtenidos en clases apoyándose con la investigación pertinente de aquellos temas que no se conocen, al inicio fue un poco difícil debido a que no se conocía el funcionamiento y la forma de organizar las etiquetas.

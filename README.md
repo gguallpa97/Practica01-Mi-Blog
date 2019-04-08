@@ -1,5 +1,5 @@
 Practica01-Mi-Blog
-Creación de un sitio web para el movimiento de Lazos de Amor marianos. 
+Creación de un sitio web para el movimiento de Lazos de Amor Mariano. 
 Comuníquese conmigo: Franklin Gustavo Guallpa Giñin 
 gguallpa97@outlook.es (ventas, solicitudes de distribución, administración) 
 gguallpa97@outlook.es (errores, problemas, preguntas)
